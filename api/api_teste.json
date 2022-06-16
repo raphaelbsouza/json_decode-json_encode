@@ -1,0 +1,33 @@
+{
+    "person": [{
+      "id": 1,
+      "name": "Raphael B de Souza",
+      "img": "http://localhost/consumo-api-php/imgs/58962240.jpg",
+      "street": "Big Rua das Ruas",
+      "number": "21",
+      "city": "Parnamirim",
+      "state": "Rio Grande do Norte",
+      "phonenumber": "84981322118"
+    },
+    {
+      "id": 2,
+      "name": "José",
+      "img": "http://localhost/consumo-api-php/imgs/58962240.jpg",
+      "street": "Rua das Mags",
+      "number": "22",
+      "city": "Macau",
+      "state": "Rio Grande do Norte",
+      "phonenumber": "8499999484"
+    },
+    {
+      "id": 3,
+      "name": "Primo",
+      "img": "http://localhost/consumo-api-php/imgs/58962240.jpg",
+      "street": "Rua das Mngabeiras",
+      "number": "23",
+      "city": "Parnamirim",
+      "state": "Rio Grande do Norte",
+      "phonenumber": "8499993333"
+    }
+  ]
+}

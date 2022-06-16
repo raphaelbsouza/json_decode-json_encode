@@ -1,0 +1,148 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, b, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+    background-color: #1B5953;
+}
+
+section {
+    text-align: center;
+}
+
+section strong {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+
+    color: rgb(208, 240, 210);
+}
+
+.div__title {
+    padding-top: 20px; 
+    padding-bottom: 20px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    text-align: center;
+
+    background-color: #1B5953;
+}
+
+.div__initial {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(18, 145, 102);
+
+    width: 100%;
+    height: 60px;
+
+    color: #000000;
+    background-color: #86DFD6;
+}
+
+.div__json_decode {
+    padding-top: 25px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-seris;
+    font-size: 16px;
+}
+
+.div__grid {
+    width: 100%;
+    height: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+    background-color: #41D9CA;
+}
+
+.div__medium {
+    margin: 20px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: initial;
+
+    color:rgb(0, 0, 0);
+
+    border: 2px solid rgb(21, 48, 0);
+    box-shadow: -5px 8px 6px;
+}
+
+.div__divisor {
+    height: 20px;
+
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+
+.div__execute {
+    padding-top: 10px;
+    background-color: #1B5953;
+}
+
+.div__infos {
+    margin: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: left;
+}
+
+.div__infos2 {
+    height: 100%;
+    margin: 25px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.h4__infos {
+    width: 100%;
+    height: 100%;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: center;
+
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border: 2px dotted black;
+}
+
+.div__register {
+    width: 100%;
+    height: 100%;
+    padding-left: 15px;
+    padding-top: 15px;
+    
+    background-color: #86DFD6;
+    border: 1px solid rgb(21, 48, 0);
+    box-shadow: -5px 8px 6px;
+}
+
+.div__error {
+    margin-top: 50px;
+}
+.div__arrayyClientes {
+    background-color: #41D9CA;
+}
